@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+#main{
+width:960px;
+margin:5px auto;
+margin-left: 310px;
+font-family: 'Raleway', sans-serif;
+background-color: white;
+}
+
+h2{
+background-color: #938CF9;
+color: white;
+text-align:center;
+border-radius: 10px 10px 0 0;
+margin: -10px -40px;
+padding: 15px;
+}
+
+hr{
+border:0;
+border-bottom:1px solid #ccc;
+margin: 10px -40px;
+margin-bottom: 30px;
+}
+
+#login{
+width:700px;
+float: left;
+border-radius: 10px;
+font-family:raleway;
+border: 2px solid #ccc;
+padding: 10px 40px 25px;
+margin-top: 10px;
+}
+
+input[type=text],input[type=email]{
+width:99.5%;
+border: 1px solid #ccc;
+padding-left: 5px;
+font-size: 16px;
+font-family:raleway;
+}
+
+input[type=submit]{
+width: 50%;
+background-color:#938CF9;
+color: white;
+border: 2px solid #00B3E6;
+font-size:20px;
+cursor:pointer;
+border-radius: 5px;
+margin-left: 150px;
+margin-bottom: -12px;
+}
+
+input[type=reset]{
+width: 50%;
+background-color:#938CF9;
+color: white;
+border: 2px solid #00B3E6;
+font-size:20px;
+cursor:pointer;
+border-radius: 5px;
+margin-left: 150px;
+margin-top: 10px;
+margin-bottom: -12px;
+}
+
+
+/*-----------------------------------------------------------------
+css settings for right side advertisement
+------------------------------------------------------------------*/
+#formget{
+float:right;
+}
+h1 {
+margin-left: -85px;
+}
